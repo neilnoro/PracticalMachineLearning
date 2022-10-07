@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning - Final Project"
-author: "Bowen Zhang"
+author: "Neil Noronha"
 date: "6/17/2020"
 output: 
         html_document:
